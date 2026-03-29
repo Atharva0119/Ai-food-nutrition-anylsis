@@ -20,7 +20,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         <div className="sidebar-brand">
           <span className="sidebar-mark">AI Nutrition</span>
           <h2>Fuel smarter every day.</h2>
-          <p>Vercel-ready nutrition planner with meal scoring, profile targets, and food management.</p>
+          <p>Smart nutrition planner with meal scoring, personalized targets, and simple food tracking.</p>
         </div>
 
         <nav className="sidebar-nav">
