@@ -1,0 +1,107 @@
+[
+  {
+    "food": "egg",
+    "calories": 78,
+    "protein": 6,
+    "carbs": 1,
+    "fat": 5
+  },
+  {
+    "food": "banana",
+    "calories": 105,
+    "protein": 1,
+    "carbs": 27,
+    "fat": 0
+  },
+  {
+    "food": "apple",
+    "calories": 95,
+    "protein": 0,
+    "carbs": 25,
+    "fat": 0
+  },
+  {
+    "food": "milk",
+    "calories": 122,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 5
+  },
+  {
+    "food": "rice",
+    "calories": 206,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 0
+  },
+  {
+    "food": "chapati",
+    "calories": 120,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 3
+  },
+  {
+    "food": "paneer",
+    "calories": 265,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 20
+  },
+  {
+    "food": "chicken breast",
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 4
+  },
+  {
+    "food": "oats",
+    "calories": 150,
+    "protein": 5,
+    "carbs": 27,
+    "fat": 3
+  },
+  {
+    "food": "bread",
+    "calories": 80,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 1
+  },
+  {
+    "food": "peanut butter",
+    "calories": 94,
+    "protein": 4,
+    "carbs": 3,
+    "fat": 8
+  },
+  {
+    "food": "dal",
+    "calories": 180,
+    "protein": 9,
+    "carbs": 27,
+    "fat": 1
+  },
+  {
+    "food": "curd",
+    "calories": 98,
+    "protein": 11,
+    "carbs": 4,
+    "fat": 4
+  },
+  {
+    "food": "almonds",
+    "calories": 164,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 14
+  },
+  {
+    "food": "potato",
+    "calories": 161,
+    "protein": 4,
+    "carbs": 37,
+    "fat": 0
+  }
+]
